@@ -50,7 +50,8 @@ Building scalable web applications with Laravel, React, and modern backend techn
 
 **Tools**
 - Git, GitHub  
-
+- Visual Studio Code (VS Code)  
+- Antigravity  
 ---
 
 ## 💻 Code Style
