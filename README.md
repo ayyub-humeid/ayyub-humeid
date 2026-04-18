@@ -38,7 +38,7 @@ Building scalable web applications with Laravel, React, and modern backend techn
 
 **Frontend**
 - React.js  
-- HTML, CSS  
+- HTML, CSS  , java script 
 - Tailwind CSS, Bootstrap  
 
 **Database**
